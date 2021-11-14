@@ -15,7 +15,7 @@ You can run this project using its `docker-compose.yaml` and running this comman
 docker-compose up --build
 ```
 
-## Using python commands
+## Using bash
 1. Start the flask app
 ```bash
 flask run
